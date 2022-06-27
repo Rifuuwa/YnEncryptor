@@ -1,0 +1,2 @@
+# YnEncryptor
+A hash Encryptor.
